@@ -40,7 +40,9 @@
 
 ➤ **Matplotlib / Seaborn** – Data visualization  
 
-➤ **Jupyter Notebook** – Development and analysis environment  
+➤ **SQL** – Querying and analyzing structured sales data  
+
+➤ **Jupyter Notebook** – Development and analysis environment
 
 ---
 
