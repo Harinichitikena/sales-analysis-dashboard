@@ -44,6 +44,18 @@
 
 ---
 
+## 📊 Insights
+
+➤ West region recorded the highest sales performance.
+
+➤ Electronics products contributed the largest share of total sales.
+
+➤ Sales trends highlight differences in regional performance.
+
+➤ Data visualization helps identify opportunities for improving sales strategies.
+
+---
+
 ## ⚙️ Project Workflow
 
 ➤ **Data Collection** – Gather sales dataset  
@@ -69,6 +81,7 @@
 ➤ Data-driven recommendations for improving sales strategies  
 
 ---
+
 
 ## 🎯 Purpose of the Project
 
